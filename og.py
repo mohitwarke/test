@@ -5,3 +5,5 @@ def test():
 if __name__ == "__main__":
     test()
 "print('New feature')" 
+"print('New')" 
+"print('changes')" 
